@@ -1,5 +1,2 @@
-# submission-fullstack-phonebook
-# submission-repository-part3
-# submission-repository-part3
-# submission-repository-part3
+# Fullstack Open course Helsinki
 # submission-repository-part3
